@@ -14,7 +14,7 @@ const connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     database: 'Delta_app',
-    password: 'Archi2304'
+    password: ''
   });
 
   let getRandomUser = ()=> {
